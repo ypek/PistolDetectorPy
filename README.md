@@ -1,5 +1,5 @@
 # Pistol Detector Python and OpenCV <img src="https://img.icons8.com/color/48/null/python--v1.png" width="40" height="40" alt="liv">
-Automação Front-End Usando Ruby e suas bibliotecas 
+ 
 
 
 
