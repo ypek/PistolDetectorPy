@@ -6,7 +6,7 @@
 ## Autores
 
 - [@Daniel Merib Lisboa](https://github.com/ypek)
-- [@Luis Henique Fretias Gioto](https://github.com/ypek)
+- [@Luis Henique Freitas Gioto](https://github.com/ypek)
 
 ## Versões
 
